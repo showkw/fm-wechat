@@ -1,0 +1,921 @@
+[ 2017-07-19T10:48:11+08:00 ] 183.61.163.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-07-19T10:48:17+08:00 ] 183.61.163.74 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-07-19T10:48:21+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001901s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-07-19T10:48:24+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004414s ]
+
+[ 2017-07-19T10:49:16+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-07-19T10:49:19+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002110s ]
+
+[ 2017-07-19T10:49:23+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005463s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-07-19T10:49:25+08:00 ] 183.61.163.74 /System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-07-19T10:49:25+08:00 ] 183.61.163.74 /Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008100s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-07-19T10:49:28+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-07-19T10:50:17+08:00 ] 183.61.163.74 /System/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+
+[ 2017-07-19T10:50:17+08:00 ] 183.61.163.74 /Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009081s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002364s ]
+
+[ 2017-07-19T10:50:24+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2017-07-19T11:23:55+08:00 ] 183.61.163.74 /System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+ERR: 模板不存在:./Application/Home/View/layout.tpl
+
+[ 2017-07-19T11:23:58+08:00 ] 183.61.163.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+INFO: [ view_parse ] --START--
+ERR: 模板不存在:./Application/Home/View/layout.tpl
+
+[ 2017-07-19T11:24:00+08:00 ] 183.61.163.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+INFO: [ view_parse ] --START--
+ERR: 模板不存在:./Application/Home/View/layout.tpl
+
+[ 2017-07-19T11:24:01+08:00 ] 183.61.163.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+INFO: [ view_parse ] --START--
+ERR: 模板不存在:./Application/Home/View/layout.tpl
+
+[ 2017-07-19T11:24:25+08:00 ] 183.61.163.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2017-07-19T11:24:31+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002663s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-07-19T11:24:31+08:00 ] 183.61.163.74 /System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004733s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001104s ]
+
+[ 2017-07-19T11:24:35+08:00 ] 183.61.163.74 /System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000210s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2017-07-19T11:24:39+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2017-07-19T11:24:44+08:00 ] 183.61.163.74 /System/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000567s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002880s ]
+
+[ 2017-07-19T11:24:44+08:00 ] 183.61.163.74 /Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009378s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000359s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2017-07-19T11:24:48+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001959s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020519s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001316s ]
+
+[ 2017-07-19T11:24:50+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002703s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2017-07-19T11:24:52+08:00 ] 183.61.163.74 /System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002012s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-07-19T11:25:15+08:00 ] 183.61.163.74 /System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010376s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001932s ]
+
+[ 2017-07-19T11:25:17+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2017-07-19T11:25:18+08:00 ] 183.61.163.74 /System/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010667s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010711s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-07-19T11:25:20+08:00 ] 183.61.163.74 /System/pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-07-19T11:25:28+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2017-07-19T11:25:32+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003532s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003601s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-07-19T11:25:34+08:00 ] 183.61.163.74 /System/index.html?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2017-07-19T11:25:36+08:00 ] 183.61.163.74 /System/index.html?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2017-07-19T11:25:38+08:00 ] 183.61.163.74 /System/index.html?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2017-07-19T11:25:40+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007162s ]
+
+[ 2017-07-19T11:28:15+08:00 ] 183.61.163.74 /System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005287s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 2: parser error : Opening and ending tag mismatch: tag line 1 and div /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():     &lt;/div&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 21: parser error : Specification mandate value for attribute readonly /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                     &lt;input type=&quot;text&quot; readonly value=&quot;http://{$_SERVER['HTTP_HO /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                                                 ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 21: parser error : attributes construct error /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                     &lt;input type=&quot;text&quot; readonly value=&quot;http://{$_SERVER['HTTP_HO /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                                                 ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 21: parser error : Couldn't find end of Start Tag input line 21 /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                     &lt;input type=&quot;text&quot; readonly value=&quot;http://{$_SERVER['HTTP_HO /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                                                 ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 26: parser error : Opening and ending tag mismatch: br line 24 and p /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                     &lt;/p&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                         ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 27: parser error : Opening and ending tag mismatch: p line 22 and div /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                 &lt;/div&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                       ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 39: parser error : Opening and ending tag mismatch: input line 34 and div /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                 &lt;/div&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                       ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 50: parser error : Opening and ending tag mismatch: input line 46 and div /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                 &lt;/div&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                       ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 61: parser error : Opening and ending tag mismatch: input line 57 and div /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                 &lt;/div&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                       ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 72: parser error : Opening and ending tag mismatch: input line 68 and div /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                 &lt;/div&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                       ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 81: parser error : Opening and ending tag mismatch: div line 63 and form /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():         &lt;/form&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 82: parser error : Opening and ending tag mismatch: div line 52 and xblock /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():     &lt;/xblock&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():              ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 118: parser error : Opening and ending tag mismatch: form line 15 and tpl /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 118: parser error : Premature end of data in tag xblock line 14 /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 118: parser error : Premature end of data in tag div line 6 /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 118: parser error : Premature end of data in tag div line 5 /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 118: parser error : Premature end of data in tag tpl line 1 /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+ERR: XML标签语法错误
+
+[ 2017-07-19T11:28:18+08:00 ] 183.61.163.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 2: parser error : Opening and ending tag mismatch: tag line 1 and div /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():     &lt;/div&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 178: parser error : Opening and ending tag mismatch: tpl line 1 and div /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): &lt;/div&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():       ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 180: parser error : Extra content at the end of the document /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): &lt;include file=&quot;Public/footer&quot; /&gt;&lt;/tpl&gt; /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): ^ /www/wwwroot/wx.lvcus.cn/ThinkPHP/Library/Think/Template.class.php 第 275 行.
+ERR: XML标签语法错误
+
+[ 2017-07-19T11:28:59+08:00 ] 183.61.163.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-07-19T11:29:02+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001881s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-07-19T11:29:05+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003118s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009834s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-07-19T11:29:07+08:00 ] 183.61.163.74 /System/pay?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003923s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001418s ]
+
+[ 2017-07-19T11:29:11+08:00 ] 183.61.163.74 /System/index.html?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008770s ]
+
+[ 2017-07-19T11:29:13+08:00 ] 183.61.163.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001885s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-07-19T11:29:15+08:00 ] 183.61.163.74 /System/index?_pjax=%23pjax-content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-07-19T11:29:17+08:00 ] 183.61.163.74 /System/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `fm_wechat_config` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `fm_wechat_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
